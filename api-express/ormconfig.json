@@ -1,0 +1,10 @@
+{
+    "type": "oracle",
+    "connectString": "10.15.0.5:1521/VLDC",
+    "username": "mega",
+    "password": "megamega",
+    "entities": [
+        "src/app/models/*.ts"
+    ],
+    "synchronize": true
+}
